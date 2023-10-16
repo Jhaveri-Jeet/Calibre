@@ -1,0 +1,104 @@
+:root {
+    --primary: rgb(232, 58, 48);
+    --secondary: #34AD54;
+    --light: #EEF9FF;
+    --dark: rgb(48, 27, 25);
+}
+
+.bg-dark {
+    background-color: var(--dark) !important;
+}
+
+.bg-primary {
+    background-color: rgb(232, 58, 48) !important;
+}
+
+.text-primary {
+    color: var(--primary) !important;
+}
+
+.btn-primary {
+    color: white;
+    background-color: var(--primary) !important;
+    border-color: var(--primary) !important;
+}
+
+.btn-primary:hover {
+    color: white;
+    background-color: rgb(148, 40, 35) !important;
+    border-color: rgb(148, 40, 35) !important;
+}
+
+.btn:focus {
+    box-shadow: 0 0 0 0.25rem rgb(218 6 6 / 25%);
+}
+
+.dropdown-item:active {
+    background-color: var(--primary) !important;
+}
+
+.navbar.sticky-top .navbar-brand {
+    color: var(--primary);
+}
+
+@media only screen and (max-width: 992px) {
+    .navbar .navbar-brand {
+        color: var(--primary);
+    }
+}
+
+.navbar-brand img {
+    height: 5rem;
+}
+
+.navbar.sticky-top .navbar-brand img {
+    margin-top: 0.1rem;
+    margin-bottom: 0.1rem;
+}
+
+.read-more-link {
+    color: rgb(232, 58, 48);
+}
+
+.read-more-link:hover {
+    color: rgb(148, 40, 35);
+}
+
+.hide-overflow-text {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.footer-copyright {
+    background: rgb(37, 13, 11) !important;
+}
+
+#searchModal .modal-content {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.navbar-toggler {
+    margin-right: 1rem;
+}
+.text-color{
+    color: rgb(232, 58, 48);
+}
+.col-height{
+    padding-top:150px;
+}
+.align-col-3{
+  
+    margin-top: -10px !important;
+}
+.h5-font-size{
+    font-size: 1rem;
+    font-weight: bolder;
+};
+
+@media only screen and (max-width: 768px) {
+    .navbar.px-5 {
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+}

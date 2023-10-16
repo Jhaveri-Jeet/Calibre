@@ -1,0 +1,9 @@
+    <script src="<?= urlOf('lib/jquery/jquery-3.4.1.min.js') ?>"></script>
+    <script src="<?= urlOf('lib/bootstrap/bootstrap.bundle.min.js') ?>"></script>
+    <script src="<?= urlOf('lib/wow/wow.min.js') ?>"></script>
+    <script src="<?= urlOf('lib/easing/easing.min.js') ?>"></script>
+    <script src="<?= urlOf('lib/waypoints/waypoints.min.js') ?>"></script>
+    <script src="<?= urlOf('lib/counterup/counterup.min.js') ?>"></script>
+    <script src="<?= urlOf('lib/owlcarousel/owl.carousel.min.js') ?>"></script>
+    <script src="<?= urlOf('js/main.js') ?>"></script>
+    <script src="<?= urlOf('js/app.js') ?>"></script>
