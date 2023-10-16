@@ -42,7 +42,7 @@ For questions or support, please contact Calibre Aluminium directly.
 
 **Note:** Avoid sharing sensitive or private information when using or sharing this database dump.
 
-For more information about Calibre Aluminium and their products, please visit [Calibre Aluminium Website](https://www.calibre-aluminium.com/).
+For more information about Calibre Aluminium and their products, please visit [Calibre Aluminium Website](https://calibrealuminium.com/).
 
 ```
 
